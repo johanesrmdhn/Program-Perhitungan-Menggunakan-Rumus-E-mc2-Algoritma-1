@@ -1,1 +1,1 @@
-# Program-Perhitungan-Menggunakan-Rumus-E-mc2-Algoritma-1
+# Program Perhitungan Menggunakan Rumus E=mc2
